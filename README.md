@@ -1,5 +1,5 @@
- This repository contains a collection of digital design projects developed for a university-level Computer Architecture Laboratory, implemented entirely in VHDL.
-Each project focuses on one or more core components of a typical CPU datapath or digital system, ranging from low-level logic circuits to complete computing subsystems.
+ ***This repository contains a collection of digital design projects developed for a university-level Computer Architecture Laboratory, implemented entirely in VHDL.
+Each project focuses on one or more core components of a typical CPU datapath or digital system, ranging from low-level logic circuits to complete computing subsystems.***
 
 The modules are designed with clarity and modularity in mind, allowing for easy integration into simulation environments or deployment on FPGAs.
 The collection serves both as a learning resource for students and a practical foundation for more advanced architecture design.
