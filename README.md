@@ -4,6 +4,7 @@ The modules are designed with clarity and modularity in mind, allowing for easy 
 The collection serves both as a learning resource for students and a practical foundation for more advanced architecture design.***
 
 ***🔍 Included Modules***
+
 *****Arithmetic Logic Unit (ALU)***
 
  A fully functional 8-bit ALU capable of performing 5 basic operations: ADD, SUB, AND, OR, and NOT.
